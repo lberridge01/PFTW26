@@ -1,7 +1,7 @@
 let bubble = [];
 
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(500, 500);
 
     for (let i = 0; i < 10; i++){
         bubble.push(new Bubble());
@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw() {
-    background(0);
+    background(175, 143, 233, 50);
 
     for (let i = 0; i < bubble.length; i++) {
         bubble[i].move();
@@ -21,19 +21,18 @@ function draw() {
 
 class Bubble {
     constructor() {
-        this.x = 200;
+        this.x = 250;
         this.y = 150;
     }
 
     move() {
-        this.x = this.x + random(-5,5);
-        this.y = this.y + random(-5,5);
+        this.x = this.x + random(-2,2);
+        this.y = this.y + random(-2,2);
     }
 
     show() {
         stroke(255);
-        strokeWeight(4);
-        noFill();
-        ellipse(this.x, this.y, 24, 24);
+        fill('pink');
+        ellipse(this.x, this.y, 25, 25);
     }
 }

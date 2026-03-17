@@ -1,0 +1,10 @@
+import mastheadImg from "../assets/Masthead.jpg"
+import "./Masthead.css";
+export default function Masthead(){
+    return (
+        <div className="masthead">
+            <img src={mastheadImg} alt="Lauren's AGD Collecton"/>
+            <h1>Lauren&apos;s American Girl Doll Collection</h1>
+        </div>
+    )
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Kit Kittredge",
+        "year": "1930s",
+        "location": "Cincinnati, Ohio",
+        "history": "Great Depression",
+        "background": "The story of Kit Kittredge takes place during the Great Depression in the 1930s. She lives in Cincinnati with her family while many people across the country are struggling because businesses have closed and jobs are hard to find. During this time, Kit’s family has to make changes, like renting rooms in their house to earn money. Her story shows what daily life was like for families during the Great Depression and how people worked together and stayed hopeful during a very difficult time in American history.",
+        "image": "/Kit.avif",
+        "id": "1"
+    },
+    {
+        "name": "Josefina Monotoya",
+        "year": "1820s",
+        "location": "Rancho de las Golodrinas, New Mexico",
+        "history": "New Mexico was part of Mexico",
+        "background": "Josefina Montoya lives in Rancho de las Golondrinas in 1824, when New Mexico was part of Mexico. Her story takes place after the Mexican War of Independence, a time when people in the region were adjusting to life under the new Mexican government. Through Josefina’s life on her family’s ranch, readers learn about Hispanic culture, family traditions, and what daily life was like in the Southwest during the early 1800s.",
+        "image": "/Josephina.jpg",
+        "id": "2"
+    },
+    {
+        "name": "Kaya'aton'my",
+        "year": "1760s",
+        "location": "Columbia River Plateau, Washington",
+        "history": "Life before European settlers settled in the Pacific Northwest",
+        "background": "Kaya lived in 1764 on the Columbia River Plateau as a member of the Nez Perce tribe. Her story shows how her community survived and thrived through hunting, fishing, and living closely with nature before European settlement. Kaya’s history is significant because it teaches readers about Nez Perce culture, traditions, and daily life, highlighting the importance of family, courage, and respect for the environment in Native American history.",
+        "image": "/Kaya.jpg",
+        "id": "3"
+    },
+    {
+        "name": "Molly McIntire",
+        "year": "1940s",
+        "location": "Pleasant Point, Illinois",
+        "history": "World War II",
+        "background": "Molly McIntire lived in 1944–1945 in Pleasant Point, Illinois during World War II. Her story shows how children and families on the homefront adapted to rationing, shortages, and having loved ones serving overseas. Molly’s history is important because it teaches readers about everyday life during World War II, highlighting resilience, patriotism, and the ways children contributed to supporting their communities and country.",
+        "image": "/Molly.png",
+        "id": "4"
+    },
+    {
+        "name": "Samantha Parkington",
+        "year": "Early 1900s",
+        "location": "Mount Bedford, New York",
+        "history": "Progressive Era",
+        "background": "Samantha Parkington lived in 1904–1906 in Mount Bedford, New York during the Progressive Era. Growing up in a wealthy family, she learns about the struggles of less fortunate children and the social issues of her time. Samantha’s story is important because it teaches readers about early 20th-century life, empathy, and the value of helping others.",
+        "image": "/Samantha.jpg",
+        "id": "5"
+    }
+]

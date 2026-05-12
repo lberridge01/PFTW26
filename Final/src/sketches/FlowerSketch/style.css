@@ -1,0 +1,48 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.flower-page {
+  background-color: rgb(245, 235, 255);
+  min-height: 100vh;
+}
+
+/* NAVIGATION BAR */
+nav {
+  width: 100%;
+  padding: 20px 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+
+  background: #b3c3e7;
+  backdrop-filter: blur(10px);
+
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+/* LINKS */
+nav a {
+  text-decoration: none;
+  color: rgb(70, 50, 80);
+
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+
+}
+
+/* HOVER EFFECT */
+nav a:hover {
+  color: rgb(255, 120, 180);
+  transform: translateY(-2px);
+}
